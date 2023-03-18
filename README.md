@@ -1,5 +1,5 @@
 # ruby-mal
-A simple Ruby based crawler to crawl one anime data from MyAnimeList (educational purposes-only)
+A simple Ruby based crawler to crawl one anime's data from MyAnimeList (educational purposes-only)
 
 To run the program do:
 1. bundle install
